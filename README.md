@@ -1,4 +1,5 @@
 # Mapty - Map Your Workouts
+![image](https://github.com/user-attachments/assets/19b82d9e-5327-4b83-9880-32041f042859)
 
 Mapty is an interactive web application that allows users to log their workouts on a map. Users can input details about their running or cycling activities and view them visually on a map. The app stores workouts locally, allowing users to delete individual workouts or clear all workouts.
 
